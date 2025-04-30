@@ -142,7 +142,9 @@ This iterative correction mechanism allows XGBoost to progressively refine predi
 
 For more info go through:
 •	https://dimleve.medium.com/xgboost-mathematics-explained-58262530904a
+
 •	https://www.youtube.com/watch?v=ZVFeW798-2I
+
 •	https://medium.com/@cristianleo120/the-math-behind-xgboost-3068c78aad9d
 
 
